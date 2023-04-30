@@ -1,6 +1,6 @@
 # Crypto-Price-Prediction
 
-##This project *CRYPTOCURRENCY PRICE FORECASTING USING MACHINE LEARNING* is conducted under the mentorship of Dr. Mohammad Abualsheikh
+## This project *CRYPTOCURRENCY PRICE FORECASTING USING MACHINE LEARNING* is conducted under the mentorship of Dr. Mohammad Abualsheikh
 by Arulnesan Arunan, Vaishali Mishra, Marneni Shourya Teja and Akshay Kumar Ramesh.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 This project uses Long Short-Term Memory (LSTM), a type of Recurrent Neural Network (RNN), to predict the future prices of Bitcoin based on historical data. The model also incorporates historical data on the S&P 500 index as an additional feature.
